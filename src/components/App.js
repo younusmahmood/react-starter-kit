@@ -4,7 +4,7 @@ export default class App extends Component {
   render() {
     return (
       <div>
-        <h1>React Starter App</h1>
+        <h1>Ref Review</h1>
       </div>
     );
   }
